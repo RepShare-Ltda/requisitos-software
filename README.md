@@ -12,13 +12,9 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 _**1.1. Grupo 4**_
 
 Felipe Maciel Scalco
-
 Matheus Vinicius Engelesberger
-
 Pablo Alonso Latapiat de Freitas
-
 Raphael dos Santos Souza
-
 Vitor Akio Suguimoto Kaneko
 
 _**1.2. RepShare**_

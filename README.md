@@ -38,7 +38,13 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 _**1.3. Descrição dos usuários**_
 
-_<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>_
+| Perfil  | A | B |
+| ------------- | ------------- | ------------- |
+| Porcentagem de usuários  | Content Cell  | Content Cell  |
+| Faixa etária | [17, 24]  | [24, 99]  |
+| Gênero  | Content Cell  | Content Cell  |
+| Frequência de uso de smartphone | Content Cell  | Content Cell  |
+| Estilo de aprencizado | Content Cell  | Content Cell  |
 
 ## 2. Documentos gerais no repositório
 

@@ -38,8 +38,6 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 _**1.3. Descrição dos usuários**_
 
-| Perfil  |
-
 ![image](https://github.com/RepShare-Ltda/requisitos-software/assets/164585988/f49b14d1-cd70-4255-a989-754f436c4c70)
 
 ## 2. Documentos gerais no repositório

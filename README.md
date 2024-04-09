@@ -43,6 +43,19 @@ _**1.5. Descrição dos usuários**_
 
 ![image](https://github.com/RepShare-Ltda/requisitos-software/assets/164585988/f49b14d1-cd70-4255-a989-754f436c4c70)
 
+_**1.5. Cenários**_
+
+_*1.5. Cenário Antes*_
+
+Peter Parker é um recém universitário e decide morar em uma república com seus amigos, ao longo do tempo eles não gerenciam muito bem os gastos de sua casa, as vezes alguém esquece pagar o outro por alguma compra ou gasto conjunto.
+Peter tem o contrato do aluguel em seu nome, seu amigo Clark Kent tem a energia, seu outro amigo Fred Flinston tem a conta de internet e seu outro amigo Albert Einstein tem a conta de água da casa, algumas contas vencem no mesmo dia e outras em dias variados, sempre que chega o dia de pagar elas acontece uma confusão de quem for pagar quem, porque as vezes alguns que tem a conta no seu nome paga ela e pede para descontar nas outras contas, o que gera uma bagunça e uma má gestão da casa, ocasinando em conflitos.
+
+_*1.5. Cenário Depois*_
+
+Peter Parker é um recém universitário e decide morar em uma república com seus amigos, e agora com o RepShare eles gerenciam os gastos da sua casa. 
+Peter tem o contrato do aluguel em seu nome, seu amigo Clark Kent tem a energia, seu outro amigo Fred Flinston tem a conta de internet e seu outro amigo Albert Einstein tem a conta de água da casa, algumas contas vencem no mesmo dia e outras em dias variados, sempre que chega o dia de pagar as contas agora é bem simples, eles lançam as contas no app, que calcula automaticamente quanto cada um deve pagar e lembra cada um quando estiver próximo de pagar as contas, e desde que começaram a usar o app, eles sabem o quanto devem pagar e para quem devem pagar e alem disso evitam comflitos. 
+Agora ficou bem mais simples, para gerenciar as contas da casa e também conseguir gerenciar as coisas internas da casa.
+
 ## 2. Documentos gerais no repositório
 
 [](https://github.com/RepShare-Ltda/requisitos-software#2-documentos-gerais-no-repositório)

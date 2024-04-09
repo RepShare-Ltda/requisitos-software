@@ -38,13 +38,7 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 _**1.3. Descrição dos usuários**_
 
-| Perfil  | A | B |
-| ------------- | ------------- | ------------- |
-| Porcentagem de usuários  | Content Cell  | Content Cell  |
-| Faixa etária | [17, 24]  | [24, 99]  |
-| Gênero  | Content Cell  | Content Cell  |
-| Frequência de uso de smartphone | Content Cell  | Content Cell  |
-| Estilo de aprencizado | Content Cell  | Content Cell  |
+| Perfil  |
 
 ![image](https://github.com/RepShare-Ltda/requisitos-software/assets/164585988/f49b14d1-cd70-4255-a989-754f436c4c70)
 

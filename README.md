@@ -46,6 +46,8 @@ _**1.3. Descrição dos usuários**_
 | Frequência de uso de smartphone | Content Cell  | Content Cell  |
 | Estilo de aprencizado | Content Cell  | Content Cell  |
 
+![image](https://github.com/RepShare-Ltda/requisitos-software/assets/164585988/f49b14d1-cd70-4255-a989-754f436c4c70)
+
 ## 2. Documentos gerais no repositório
 
 [](https://github.com/RepShare-Ltda/requisitos-software#2-documentos-gerais-no-repositório)

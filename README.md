@@ -18,6 +18,8 @@ Matheus Vinicius Engelesberger
 
 Pablo Alonso Latapiat de Freitas
 
+Pedro Lucas da Silva Mota
+
 Raphael dos Santos Souza
 
 Vitor Akio Suguimoto Kaneko

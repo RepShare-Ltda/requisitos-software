@@ -1,5 +1,6 @@
 
 
+
 # Projeto Disciplina: Requisitos de Software
 
 [](https://github.com/RepShare-Ltda/requisitos-software#projeto-disciplina-requisitos-de-software)
@@ -34,27 +35,29 @@ Este documento apresenta os requisitos dos usuários a serem desenvolvidos pelo 
 
 O objetivo do sistema `RepShare` é facilitar o gerenciamento financeiro e distribuição de tarefas entre os integrantes de uma república por meio de relatórios, controle de recursos, sistema de votações.
 
-_**1.2. Público Alvo**_
+_**1.4. Público Alvo**_
 
 Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes e estudantes universitários.
 
-_**1.3. Descrição dos usuários**_
+_**1.5. Descrição dos usuários**_
 
 ![image](https://github.com/RepShare-Ltda/requisitos-software/assets/164585988/f49b14d1-cd70-4255-a989-754f436c4c70)
 
 ## 2. Documentos gerais no repositório
 
 [](https://github.com/RepShare-Ltda/requisitos-software#2-documentos-gerais-no-repositório)
+_**2.1. Requisitos de usuário e sistema**_
+https://padlet.com/pablo2004_1/repshare-3bqo072xbvkg9crg
 
-_**2.1. Requisitos de usuário**_
+_**2.2. Requisitos funcionais**_
 
 _<Link para a pasta com os requisitos de usuário.>_
 
-_**2.2. Requisitos de sistema**_
+_**2.3. Requisitos não funcionais**_
 
 _<Link para a pasta de requisitos de sistema .>_
 
-_**2.3. Protótipos**_
+_**2.4. Protótipos**_
 
 _<Link para a pasta com os protótipos.>_
 

@@ -42,6 +42,9 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 _**1.5. Descrição dos usuários**_
 
 ![image](https://github.com/RepShare-Ltda/requisitos-software/assets/164585988/f49b14d1-cd70-4255-a989-754f436c4c70)
+![JOAO](https://github.com/RepShare-Ltda/requisitos-software/assets/164586099/abdbb039-a564-4b45-bba3-02cf91190d13)
+![MARCIA](https://github.com/RepShare-Ltda/requisitos-software/assets/164586099/8571a741-93df-46c2-b047-b12c01bd1ca1)
+![Peter](https://github.com/RepShare-Ltda/requisitos-software/assets/164586099/12f2235e-2298-4eac-890b-1c057e024c06)
 
 _**1.5. Cenários**_
 

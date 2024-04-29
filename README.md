@@ -82,7 +82,23 @@ _**2.2. Requisitos funcionais**_
 
 _**2.3. Requisitos não funcionais**_
 
-_<Link para a pasta de requisitos de sistema .>_
+| Identificador | Descrição | Prioridade |
+| --- | --- | --- |
+| RNF01 | O sistema deve intuitivo para que os usuários sejam capazes de utilizar o App dentro de 30 minutos. | Alta |
+| RNF02 | O sistema deve estar sincronizado com toda a rede de usuários. | Alta |
+| RNF03 | O sistema deve recuperar os dados em caso de falha. | Alta |
+| RNF04 | O sistema deve ter portabilidade em sistema operacional Android e IOS. | Alta |
+| RNF05 | O sistema deve abrir nos Browsers: Chrome, Safari, Edge, Firefox, Opera. | Alta |
+| RNF06 | O sistema deve possuir seus documentos contendo o cabeçalho e rodapé definido pela empresa. | Alta |
+| RNF07 | O sistema deve ser implementado em HTML, CSS, e JavaScript. | Alta |
+| RNF08 | O sistema deve possuir uma aplicação mobile gerada através de WebApp. | Alta |
+| RNF09 | O sistema deve utilizar o banco de dados em SQL. | Alta |
+| RNF10 | O sistema deve possuir a documentação dos diagramas desenvolvidos no Astah. | Alta |
+| RNF11 | O sistema deve ser desenvolvido com o framework React. | Alta |
+| RNF12 | O sistema deve ser desenvolvido utilizando a arquitetura atômica. | Alta |
+| RNF13 | O sistema deve ocultar as informações pessoais dos clientes aos operadores. | Alta |
+| RNF14 | O sistema deve proteger os dados através da LGPD. | Alta |
+
 
 _**2.4. Protótipos**_
 

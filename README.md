@@ -69,16 +69,16 @@ _**2.2. Requisitos funcionais**_
 
 | Identificador | Descrição | Prioridade |
 | --- | --- | --- |
-| RN01 | O software deve permitir que o administrador possa realizar restrições de acesso no sistema. | Alta |
-| RN02 | O software deve permitir que o usuário possa cadastrar e gerenciar a casa. | Alta |
-| RN03 | O software deve permitir que o usuário possa cadastrar e gerenciar pessoas. | Alta |
-| RN04 | O software deve permitir que o usuário possa cadastrar e gerenciar insumos da casa. | Alta |
-| RN05 | O software deve permitir que o usuário possa cadastrar e gerenciar despesas. | Alta |
-| RN06 | O software deve disponibilizar um dashboard de visualização JIT para o usuário acerca das relações de entrada e saída de dinheiro. pessoas, insumos, entre outros. | Alta |
-| RN07 | O software deve permitir que o usuário inicie votações (anônimas) para decisões gerais na república. | Alta |
-| RN08 | O software deve permitir que o usuário crie avisos para notificar os demais usuários. | Alta |
-| RN09 | O software deve permitir que o usuário remova e/ou atualize os dados cadastrados. | Alta |
-| RN10 | O software deve permitir que o usuário adicione comprovantes de pagamento no gerenciamento de despesas para que o administrador possa realizar a validação | Alta |
+| RF01 | O software deve permitir que o administrador possa realizar restrições de acesso no sistema. | Alta |
+| RF02 | O software deve permitir que o usuário possa cadastrar e gerenciar a casa. | Alta |
+| RF03 | O software deve permitir que o usuário possa cadastrar e gerenciar pessoas. | Alta |
+| RF04 | O software deve permitir que o usuário possa cadastrar e gerenciar insumos da casa. | Alta |
+| RF05 | O software deve permitir que o usuário possa cadastrar e gerenciar despesas. | Alta |
+| RF06 | O software deve disponibilizar um dashboard de visualização JIT para o usuário acerca das relações de entrada e saída de dinheiro. pessoas, insumos, entre outros. | Alta |
+| RF07 | O software deve permitir que o usuário inicie votações (anônimas) para decisões gerais na república. | Alta |
+| RF08 | O software deve permitir que o usuário crie avisos para notificar os demais usuários. | Alta |
+| RF09 | O software deve permitir que o usuário remova e/ou atualize os dados cadastrados. | Alta |
+| RF10 | O software deve permitir que o usuário adicione comprovantes de pagamento no gerenciamento de despesas para que o administrador possa realizar a validação | Alta |
 
 _**2.3. Requisitos não funcionais**_
 

@@ -74,12 +74,12 @@ _**2.2. Requisitos funcionais**_
 | RF03 | O software deve permitir que o usuário possa cadastrar e gerenciar pessoas. | Alta |
 | RF04 | O software deve permitir que o usuário possa cadastrar e gerenciar insumos da casa. | Alta |
 | RF05 | O software deve permitir que o usuário possa cadastrar e gerenciar despesas. | Alta |
-| RF06 | O software deve disponibilizar um dashboard de visualização JIT para o usuário acerca das relações de entrada e saída de dinheiro. pessoas, insumos, entre outros. | Alta |
-| RF07 | O software deve permitir que o usuário inicie votações (anônimas) para decisões gerais na república. | Alta |
-| RF08 | O software deve permitir que o usuário crie avisos para notificar os demais usuários. | Alta |
+| RF06 | O software deve disponibilizar um dashboard de visualização JIT para o usuário acerca das relações de entrada e saída de dinheiro. pessoas, insumos, entre outros. | Media |
+| RF07 | O software deve permitir que o usuário inicie votações (anônimas) para decisões gerais na república. | Baixa |
+| RF08 | O software deve permitir que o usuário crie avisos para notificar os demais usuários. | Media |
 | RF09 | O software deve permitir que o usuário remova e/ou atualize os dados cadastrados. | Alta |
-| RF10 | O software deve permitir que o usuário adicione comprovantes de pagamento no gerenciamento de despesas para que o administrador possa realizar a validação | Alta |
-
+| RF10 | O software deve permitir que o usuário adicione comprovantes de pagamento no gerenciamento de despesas para que o administrador possa realizar a validação | Media |
+| RF11 | O software deve permitir que o usuário crie e gerencie um painel de divisão de tarefas | Baixa | 
 _**2.3. Requisitos não funcionais**_
 
 | Identificador | Descrição | Prioridade |
@@ -89,7 +89,7 @@ _**2.3. Requisitos não funcionais**_
 | RNF03 | O sistema deve recuperar os dados em caso de falha. | Alta |
 | RNF04 | O sistema deve ter portabilidade em sistema operacional Android e IOS. | Alta |
 | RNF05 | O sistema deve abrir nos Browsers: Chrome, Safari, Edge, Firefox, Opera. | Alta |
-| RNF06 | O sistema deve possuir seus documentos contendo o cabeçalho e rodapé definido pela empresa. | Alta |
+| RNF06 | O sistema deve possuir seus documentos contendo o cabeçalho e rodapé definido pela empresa. | Baixa | 
 | RNF07 | O sistema deve ser implementado em HTML, CSS, e JavaScript. | Alta |
 | RNF08 | O sistema deve possuir uma aplicação mobile gerada através de WebApp. | Alta |
 | RNF09 | O sistema deve utilizar o banco de dados em SQL. | Alta |

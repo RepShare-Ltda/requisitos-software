@@ -111,3 +111,7 @@ _<Link para a pasta com os protótipos.>_
 _<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>_
 
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
+
+## Link para entrevista com moradores de republica
+
+[](https://drive.google.com/file/d/1H9f2fjk-glpAx_PSIeCtIgViPlK_Z8ED/view?usp=sharing)

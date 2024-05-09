@@ -114,4 +114,4 @@ _<Esta seção é destinada à descrição das referências utilizadas pelo docu
 
 ## Link para entrevista com moradores de republica
 
-[](https://drive.google.com/file/d/1H9f2fjk-glpAx_PSIeCtIgViPlK_Z8ED/view?usp=sharing)
+https://drive.google.com/file/d/1H9f2fjk-glpAx_PSIeCtIgViPlK_Z8ED/view?usp=sharing

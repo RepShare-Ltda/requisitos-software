@@ -116,3 +116,7 @@ _<Esta seção é destinada à descrição das referências utilizadas pelo docu
 ## Link para entrevista com moradores de republica
 
 https://drive.google.com/file/d/1H9f2fjk-glpAx_PSIeCtIgViPlK_Z8ED/view?usp=sharing
+
+## Link do padlet para as histórias de usuário
+
+https://padlet.com/pablo2004_1/hist-rias-de-usu-rio-u51rm1h59ijrzgiy

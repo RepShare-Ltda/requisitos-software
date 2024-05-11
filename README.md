@@ -80,6 +80,7 @@ _**2.2. Requisitos funcionais**_
 | RF09 | O software deve permitir que o usuário remova e/ou atualize os dados cadastrados. | Alta |
 | RF10 | O software deve permitir que o usuário adicione comprovantes de pagamento no gerenciamento de despesas para que o administrador possa realizar a validação | Media |
 | RF11 | O software deve permitir que o usuário crie e gerencie um painel de divisão de tarefas | Baixa | 
+
 _**2.3. Requisitos não funcionais**_
 
 | Identificador | Descrição | Prioridade |

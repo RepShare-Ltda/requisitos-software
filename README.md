@@ -69,15 +69,15 @@ _**2.2. Requisitos funcionais**_
 
 | Identificador | Descrição | Prioridade |
 | --- | --- | --- |
-| RF01 | O software deve permitir que o administrador possa realizar restrições de acesso no sistema. | Alta |
-| RF02 | O software deve permitir que o usuário possa cadastrar e gerenciar a casa. | Alta |
-| RF03 | O software deve permitir que o usuário possa cadastrar e gerenciar pessoas. | Alta |
+| RF01 | O software deve permitir que o usuário administrador possa realizar restrições de acesso no sistema. | Alta |
+| RF02 | O software deve permitir que o usuário administrador possa cadastrar e gerenciar a casa. | Alta |
+| RF03 | O software deve permitir que o usuário administrador possa cadastrar e gerenciar pessoas. | Alta |
 | RF04 | O software deve permitir que o usuário possa cadastrar e gerenciar insumos da casa. | Alta |
-| RF05 | O software deve permitir que o usuário possa cadastrar e gerenciar despesas. | Alta |
+| RF05 | O software deve permitir que o usuário administrador possa cadastrar e gerenciar despesas. | Alta |
 | RF06 | O software deve disponibilizar um dashboard de visualização JIT para o usuário acerca das relações de entrada e saída de dinheiro. pessoas, insumos, entre outros. | Media |
 | RF07 | O software deve permitir que o usuário inicie votações (anônimas) para decisões gerais na república. | Baixa |
 | RF08 | O software deve permitir que o usuário crie avisos para notificar os demais usuários. | Media |
-| RF09 | O software deve permitir que o usuário remova e/ou atualize os dados cadastrados. | Alta |
+| RF09 | O software deve permitir que o usuário remova e/ou atualize seus dados cadastrados. | Alta |
 | RF10 | O software deve permitir que o usuário adicione comprovantes de pagamento no gerenciamento de despesas para que o administrador possa realizar a validação | Media |
 | RF11 | O software deve permitir que o usuário crie e gerencie um painel de divisão de tarefas | Baixa | 
 
@@ -87,7 +87,7 @@ _**2.3. Requisitos não funcionais**_
 | --- | --- | --- |
 | RNF01 | O sistema deve intuitivo para que os usuários sejam capazes de utilizar o App dentro de 30 minutos. | Alta |
 | RNF02 | O sistema deve estar sincronizado com toda a rede de usuários. | Alta |
-| RNF03 | O sistema deve recuperar os dados em caso de falha. | Alta |
+| RNF03 | O sistema deve recuperar os dados cadastrais do usuário e da república em caso de queda do sistema. | Alta |
 | RNF04 | O sistema deve ter portabilidade em sistema operacional Android e IOS. | Alta |
 | RNF05 | O sistema deve abrir nos Browsers: Chrome, Safari, Edge, Firefox, Opera. | Alta |
 | RNF06 | O sistema deve possuir seus documentos contendo o cabeçalho e rodapé definido pela empresa. | Baixa | 
